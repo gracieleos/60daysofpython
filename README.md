@@ -69,7 +69,6 @@
 ---
 
 ## 💻 Como Executar os Códigos
-
 1. Clone o repositório:
    ```bash
 git clone [https://github.com/gracieleos/60daysofpython.git](https://github.com/gracieleos/60daysofpython.git)
